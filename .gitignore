@@ -136,3 +136,4 @@ dist
 .pnp.*
 /.idea/
 /db/inventory.sqlite
+/package-lock.json
