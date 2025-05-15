@@ -45,6 +45,14 @@ npm start
 O el comando que tengas configurado en tu `package.json` para iniciar la aplicación (por ejemplo, `npm run dev`).
 
 La API estará disponible en `http://localhost:[PUERTO]` (reemplaza `[PUERTO]` con el puerto que hayas configurado, comúnmente 3000 o 5000).
+⚠️ Importante para Android emulador: usa 10.0.2.2 en lugar de localhost
+
+```bash
+npm run create-demo-user
+```
+Se creara el usuario de pruebas
+* **usuario@demo.com**
+* **123456**
 
 ## Endpoints de la API de Inventario (`/inventory`)
 
