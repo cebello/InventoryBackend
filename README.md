@@ -23,7 +23,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 
 1.  Clona el repositorio:
     ```bash
-    git clone https://[URL-DE-TU-REPOSITORIO].git
+    git clone https://github.com/cebello/InventoryBackend.git
     cd InventoryBackend
     ```
 2.  Instala las dependencias del proyecto:
