@@ -54,6 +54,11 @@ Se creara el usuario de pruebas
 * **usuario@demo.com**
 * **123456**
 
+## Variables de entorno
+* **PORT=3000**
+* **JWT_SECRET=supersecreto123**
+* **SQLITE_DB_PATH=./db/inventory.sqlite**
+
 ## Endpoints de la API de Inventario (`/inventory`)
 
 Todas las rutas bajo `/inventory` requieren autenticación. Se debe enviar un Token JWT en la cabecera `Authorization` con el formato `Bearer <token>`.
