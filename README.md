@@ -4,7 +4,7 @@ Backend desarrollado con Node.js y Express para la gestión de un modelo de nego
 
 ## Descripción
 
-Este proyecto proporciona la lógica de servidor y la API necesaria para [Describe brevemente el propósito principal del sistema de inventarios, por ejemplo: "registrar productos, gestionar stock, realizar seguimiento de entradas y salidas", etc.].
+Este proyecto proporciona la lógica de servidor y la API necesaria para el sistema de inventarios (registrar productos, gestionar stock, realizar seguimiento de entradas y salidas).
 
 ## Tecnologías Utilizadas
 
